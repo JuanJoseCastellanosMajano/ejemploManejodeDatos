@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// Structura que almacena la información de un videojuego
+// Struct que almacena la información de un videojuego
 struct VideoJuego
 {
     int codigo;
